@@ -14,4 +14,4 @@ Phones generated the lowest revenue among the products analyzed.
 Tools Used
 Microsoft Excel
 Pivot Tables
-images of the work ; Project-2/IMG_8314.jpeg,Project-2/IMG_8315.jpeg,
+images of the work ; Project-2/IMG_8314.jpeg,Project-2/IMG_8315.jpeg,Project-2/IMG_8316.jpeg
