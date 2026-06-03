@@ -1,5 +1,4 @@
 key insights 
-
 Increase marketing investment in Instagram campaigns.
 Investigate reasons for order cancellations and returns.
 Promote high-performing products such as Chairs, Printers, and Laptops.
